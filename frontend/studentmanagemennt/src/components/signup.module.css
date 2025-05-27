@@ -1,0 +1,73 @@
+.heading{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 8rem;
+    margin-bottom: 4rem;
+    color: black;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.bottom{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 2rem;
+    margin-bottom: 5rem;
+}
+.low{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 1rem;
+    margin-bottom: 5rem;
+}
+body{
+    /* background-image: url(../components/assets/bgImagePurple.jpeg); */
+    /* height: 1000px; */
+    /* background: linear-gradient(to right, #6e47b8, #1a0b40); */
+    /* background-color: antiquewhite; */
+    /* background-color: #d3d3d3; */
+    background: white;
+    /* background: linear-gradient(109.6deg, rgba(119, 44, 232, 0.68) 11.5%, rgb(119, 44, 232) 91.2%); */
+    background-size: cover;
+}
+
+.body-header{
+    background: linear-gradient(to right, #6e47b8, #1a0b40);
+
+}
+.clickbutton{
+    font-size: 2rem;
+    color: white;
+    background-color: transparent;
+    font-weight: 800;
+    margin-top: 40px;
+    padding: 20px;
+}
+
+.clickbutton:hover{
+    background-color: lightgray;
+    filter: blur(10px);
+    margin-top: 40px;
+    cursor: pointer;
+    padding: 20px;
+}
+.loginH{
+    font-size: 2rem;
+    color: red;
+    font-weight: 800;
+}
+
+textarea:focus {
+    border-color: blue; /* Change border color when input is focused */
+  }
