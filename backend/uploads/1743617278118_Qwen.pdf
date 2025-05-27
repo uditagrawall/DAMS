@@ -1,0 +1,532 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 4122
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.2 g
+28.3464566929133888 813.5435433070865656 Td
+(Subject: Quantitative Ability) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.2 g
+28.3464566929133888 793.7010236220472734 Td
+(Section: Data Analysis) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.2 g
+28.3464566929133888 773.8585039370078675 Td
+(Topic: Statistics) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.2 g
+28.3464566929133888 754.0159842519684616 Td
+(Sub-topic: Mode) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.2 g
+28.3464566929133888 734.1734645669291695 Td
+(Number of Questions: 4) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.2 g
+28.3464566929133888 694.4884251968503577 Td
+(Question 1:) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.2 g
+28.3464566929133888 674.6459055118109518 Td
+(A set of five distinct integers has a mode of 15. If the integers are in the) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.2 g
+28.3464566929133888 654.8033858267716596 Td
+(range from 10 to 20 \(inclusive\), which of the following could be the complete) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.2 g
+28.3464566929133888 634.9608661417322537 Td
+(set?) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.2 g
+28.3464566929133888 595.2758267716535556 Td
+(\(A\) {10, 12, 15, 15, 20}) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.2 g
+28.3464566929133888 575.4333070866141497 Td
+(\(B\) {11, 15, 15, 18, 19}) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.2 g
+28.3464566929133888 555.5907874015747439 Td
+(\(C\) {10, 14, 15, 16, 17}) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.2 g
+28.3464566929133888 535.748267716535338 Td
+(\(D\) {13, 15, 15, 17, 17}) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.2 g
+28.3464566929133888 496.0632283464566399 Td
+(Correct Answer: \(A\) {10, 12, 15, 15, 20}) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.2 g
+28.3464566929133888 456.378188976377885 Td
+(Explanation:) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.2 g
+28.3464566929133888 436.5356692913385359 Td
+(The mode is the value that appears most frequently in a set of data. In this) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.2 g
+28.3464566929133888 416.69314960629913 Td
+(case, the mode is 15, and hence 15 must appear more frequently than any) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.2 g
+28.3464566929133888 396.850629921259781 Td
+(other number in the set. Among the options, \(A\) and \(D\) both have 15) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.2 g
+28.3464566929133888 377.0081102362204319 Td
+(appearing twice. However, \(D\) has 17 appearing twice, making 17 a) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.2 g
+28.3464566929133888 357.1655905511810261 Td
+(candidate for the mode as well, which violates the condition of having a) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.2 g
+28.3464566929133888 337.323070866141677 Td
+(unique mode. Thus, the only option with 15 appearing more frequently than) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.2 g
+28.3464566929133888 317.480551181102328 Td
+(any other number in the set is \(A\).) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.2 g
+28.3464566929133888 277.7955118110235162 Td
+(---) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.2 g
+28.3464566929133888 238.1104724409448181 Td
+(Question 2:) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.2 g
+28.3464566929133888 218.2679527559054122 Td
+(Given a dataset of integers: 7, 12, 12, 18, 22, 12, 15, 19, 10. If one more) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.2 g
+28.3464566929133888 198.4254330708660063 Td
+(data point is added to this dataset, which must be an integer, and the mode) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.2 g
+28.3464566929133888 178.5829133858267141 Td
+(remains 12, what is the maximum value this new data point can be?) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.2 g
+28.3464566929133888 138.8978740157479024 Td
+(\(A\) 12) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.2 g
+28.3464566929133888 119.0553543307086102 Td
+(\(B\) 11) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.2 g
+28.3464566929133888 99.2128346456692043 Td
+(\(C\) 13) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.2 g
+28.3464566929133888 79.3703149606297984 Td
+(\(D\) 15) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 1214
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.2 g
+28.3464566929133888 813.5435433070865656 Td
+(Correct Answer: \(A\) 12) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.2 g
+28.3464566929133888 773.8585039370078675 Td
+(Explanation:) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.2 g
+28.3464566929133888 754.0159842519684616 Td
+(The current mode is 12, which appears three times. Adding an integer that is) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.2 g
+28.3464566929133888 734.1734645669291695 Td
+(equal to 12 ensures that 12 remains the most frequent value in the dataset.) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.2 g
+28.3464566929133888 714.3309448818897636 Td
+(Any other value would either tie 12 or create a different mode, violating the) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.2 g
+28.3464566929133888 694.4884251968503577 Td
+(condition that the mode remains 12.) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.2 g
+28.3464566929133888 654.8033858267716596 Td
+(---) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.2 g
+28.3464566929133888 615.1183464566928478 Td
+(Question 3:) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.2 g
+28.3464566929133888 595.2758267716535556 Td
+(Consider a set of four) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R ]
+/Count 2
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+/F6 12 0 R
+/F7 13 0 R
+/F8 14 0 R
+/F9 15 0 R
+/F10 16 0 R
+/F11 17 0 R
+/F12 18 0 R
+/F13 19 0 R
+/F14 20 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+21 0 obj
+<<
+/Producer (jsPDF 2.5.2)
+/CreationDate (D:20250327230339+05'30')
+>>
+endobj
+22 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 23
+0000000000 65535 f 
+0000005729 00000 n 
+0000007554 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000004326 00000 n 
+0000004463 00000 n 
+0000005792 00000 n 
+0000005917 00000 n 
+0000006047 00000 n 
+0000006180 00000 n 
+0000006318 00000 n 
+0000006442 00000 n 
+0000006571 00000 n 
+0000006703 00000 n 
+0000006839 00000 n 
+0000006967 00000 n 
+0000007094 00000 n 
+0000007223 00000 n 
+0000007356 00000 n 
+0000007458 00000 n 
+0000007804 00000 n 
+0000007890 00000 n 
+trailer
+<<
+/Size 23
+/Root 22 0 R
+/Info 21 0 R
+/ID [ <01B5D2C830DD839369E57BCFC8E8F8BF> <01B5D2C830DD839369E57BCFC8E8F8BF> ]
+>>
+startxref
+7994
+%%EOF
