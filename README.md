@@ -2,6 +2,7 @@
 
 A web-based Department Achievements Management System built using the MERN Stack (MongoDB, Express.js, React, Node.js). This system is designed to manage and showcase academic and extracurricular achievements of students and faculty within a department.
 
+
 🚀 Features
 🔐 User Authentication (JWT-based login/register)
 
@@ -16,6 +17,7 @@ A web-based Department Achievements Management System built using the MERN Stack
 📨 Admin Approval & Messaging
 
 🌐 Responsive & Animated UI
+
 
 🛠️ Tech Stack
 Frontend: React.js, TailwindCSS, Framer Motion
